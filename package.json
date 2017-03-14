@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "fluent-ffmpeg": "",
+    "fluent-ffmpeg": "*",
     "request": "^2.65.0",
     "tarball-extract": "0.0.3"
   },
